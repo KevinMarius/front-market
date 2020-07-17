@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tchatApp",
-    "slug": "tchatApp",
+    "name": "EcommerceApp",
+    "slug": "EcommerceApp",
     "platforms": [
       "ios",
       "android",
